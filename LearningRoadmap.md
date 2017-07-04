@@ -15,13 +15,13 @@
 ## Lock Free Data Structures (Only Vishal)
 
 ## Algorithm Design
-*Recursion
-*Divide and Conquer
-*Greedy
-*Backtracking
-*Dynamic Programming
-*Searching
-*Sorting
+* Recursion
+* Divide and Conquer
+* Greedy
+* Backtracking
+* Dynamic Programming
+* Searching
+* Sorting
 
 ## Design Patterns
 
