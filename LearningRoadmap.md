@@ -50,6 +50,10 @@
 
 ## Papers
 
+## CMake (Only Vishal)
+
+## Vim
+
 ## Blogs to Write
 
 ## Open Source Projects to contribute to
