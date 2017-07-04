@@ -1,4 +1,4 @@
-# Learning Roadmap for Vishal and Pankaj
+# Learning Roadmap 
 
 ## Data Structures
 * Arrays
@@ -41,6 +41,7 @@
 * Floating point numbers
 * Endianess
 * Deadlock
+* CPU Core Pinning
 
 ## Object Oriented Programming
 * Single Responsiblity Principle
@@ -48,6 +49,11 @@
 * Liskov Substitution Principle
 * Interface Segregation Principle
 * Dependency Inversion Principle
+
+## Design
+* Snake Game
+* Google Search
+* News feed
 
 ## Fucntional Programming
 
@@ -61,8 +67,6 @@
 
 ## Swift (Only Pankaj)
 
-## Design
-
 ## Papers
 
 ## CMake (Only Vishal)
@@ -74,6 +78,11 @@
 ## Open Source Projects to contribute to
 
 ## Core Library
+
+## Projects (Document Details and design decisions)
+* Optimized Data Parsing
+* Distributed Data Store
+* 3d Sound
 
 ### Refernces
 * https://github.com/jwasham/coding-interview-university
