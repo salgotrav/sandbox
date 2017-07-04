@@ -44,6 +44,7 @@
 * CPU Core Pinning
 
 ## Object Oriented Programming
+* Composition and Inheritence
 * Single Responsiblity Principle
 * Open/Closed Principle
 * Liskov Substitution Principle
