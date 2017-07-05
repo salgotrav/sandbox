@@ -42,6 +42,7 @@
 * Endianess
 * Deadlock
 * CPU Core Pinning
+* Epoll
 
 ## Object Oriented Programming
 * Composition and Inheritence
@@ -89,5 +90,5 @@
 * https://github.com/jwasham/coding-interview-university
 * http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 
-*This is an exhaustive list and will keep on evolving.*
+*This is by no means an exhaustive list and will keep on evolving.*
 
