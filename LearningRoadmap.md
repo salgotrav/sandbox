@@ -31,6 +31,7 @@
 * Merge Sort
 * Heap Sort
 * Hashing Algorithm
+* Dutch National Flag Problem
 
 ## Design Patterns
 
@@ -43,6 +44,8 @@
 * Deadlock
 * CPU Core Pinning
 * Epoll
+* Shared Memory
+* Memory Fences
 
 ## Object Oriented Programming
 * Composition and Inheritence
@@ -62,6 +65,10 @@
 ## Modern C++ (Only Vishal)
 * STL Algorithms
 * Template Metaprogramming
+* C++ Memory Model
+* std::function
+* Concepts
+* SFINAE
 
 ## Python (Only Vishal)
 
@@ -76,6 +83,7 @@
 ## Vim
 
 ## Blogs to Write
+* Print Natural Numbers from two threads(even from one and odd from two) and sync using memery fences.
 
 ## Open Source Projects to contribute to
 
