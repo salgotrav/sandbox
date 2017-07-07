@@ -25,18 +25,18 @@ Running Cmake with -p runs the script but don't generate a pipeline.
 CMake is more like a scripting language and is very flexible. Let's go over the basic building blocks of CMake Scripting.
 
 ### message
-message("Building Core library.")
+```message("Building Core library.")```
 message prints the message. Very useful for printing status messages.
 
 ### Variables
 Every varible in CMake is a string. A variable is reference by specifying the name of variable in ${}. This is also know as variable reference.
 Variables can be set by:
 * Set command
-  set (Number, 42) 
+  ```set (Number, 42) ```
   This sets the variable Number to 42.
   The statement message("The Ultimate Answer is ${Number}") prints *The Ultimate Answer is 42*.
 * Defining the name on command line 
-  $ cmake -DNumber 42
+  ```$ cmake -DNumber 42```
 Quotes around arguments are optional as long as there are no spaces or reference variable.
 
 ### Includig Scripts
