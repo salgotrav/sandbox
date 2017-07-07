@@ -10,6 +10,13 @@ This will generate a build pipeline. For the sake of simplicity, let's assume we
 Generating build pipeline in a seperate build directory have the advantage of seperating the build files from project source files. 
 All the build artifacts are in this directory, and can be deleted for cleanup.
 
+The most basic CMake for a project is:
+```
+cmake_minimum_required(VERSION 2.9)
+project(BasicProject)
+add_executable(BasicProject, main.cpp)
+```
+
 Below is a sample CMakeLists.txt
 * * *
 
@@ -35,6 +42,9 @@ Quotes around arguments are optional as long as there are no spaces or reference
 ### Includig Scripts
   *include* command is used to add CMakeLists.txt from other directories. 
   *add_subdirectory* creates a new scope and executes the CMakeLists.txt from the subdirectory.
+
+### Include Directories
+  To set up the include directories *include_directories(directoryName)* is used.
   
 ### Targets
   *add_executable*, *add_target_library*, *add_custom_target* commands defines targets.
