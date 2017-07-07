@@ -32,4 +32,10 @@ Variables can be set by:
   $ cmake -DNumber 42
 Quotes around arguments are optional as long as there are no spaces or reference variable.
 
-###
+### Includig Scripts
+  *include* command is used to add CMakeLists.txt from other directories. 
+  *add_subdirectory* creates a new scope and executes the CMakeLists.txt from the subdirectory.
+  
+### Targets
+  *add_executable*, *add_target_library*, *add_custom_target* commands defines targets.
+  
