@@ -100,3 +100,7 @@
 
 *This is by no means an exhaustive list and will keep on evolving.*
 
+
+- [] this is an incomplete item
+- [x] this is a complete item
+
