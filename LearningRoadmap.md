@@ -84,6 +84,10 @@
 
 ## Blogs to Write
 * Print Natural Numbers from two threads(even from one and odd from two) and sync using memery fences.
+* cmake
+* C++ 11 features
+* C++ 14 features
+* C++ 17 features
 
 ## Open Source Projects to contribute to
 
