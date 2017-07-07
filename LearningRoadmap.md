@@ -95,12 +95,10 @@
 * 3d Sound
 
 ### Refernces
+* MarkDown: 
+  https://guides.github.com/features/mastering-markdown/
 * https://github.com/jwasham/coding-interview-university
 * http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 
 *This is by no means an exhaustive list and will keep on evolving.*
-
-
-- [] this is an incomplete item
-- [x] this is a complete item
 
