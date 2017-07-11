@@ -101,6 +101,8 @@ http://quick-bench.com/
 * C++ 11 features
 * C++ 14 features
 * C++ 17 features
+* Google Benchmark
+* Some C++ Unit test framework
 
 ## Open Source Projects to contribute to
 
