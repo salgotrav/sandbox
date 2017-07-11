@@ -56,6 +56,15 @@
 * Dependency Inversion Principle
 
 ## Design
+https://www.interviewbit.com/courses/system-design/
+* Design Cache
+* Sharding a database
+* Highly Available database
+* Highly Consistent database
+* Tiny URL
+* Search Typehead
+* Design Messenger
+* Design Twitter
 * Snake Game
 * Google Search
 * News feed
@@ -97,6 +106,9 @@
 * Optimized Data Parsing
 * Distributed Data Store
 * 3d Sound
+
+## Practice
+* https://www.interviewbit.com/dashboard/
 
 ### Refernces
 * MarkDown: 
