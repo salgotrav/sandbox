@@ -13,6 +13,7 @@
 * Tries
 
 ## Lock Free Data Structures (Only Vishal)
+* Lock free circular buffer
 
 ## Algorithm Design
 * Recursion
