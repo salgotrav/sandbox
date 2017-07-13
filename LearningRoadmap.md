@@ -47,6 +47,7 @@
 * Epoll
 * Shared Memory
 * Memory Fences
+* Cpuset
 
 ## Object Oriented Programming
 * Composition and Inheritence
