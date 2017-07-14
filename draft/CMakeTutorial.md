@@ -20,9 +20,11 @@ add_executable(BasicProject, main.cpp)
 Below is a sample CMakeLists.txt
 * * *
 
-Running Cmake with -p runs the script but don't generate a pipeline.
+### Cmake Command Arguments
+* cmake <CMakeListsDir> -p runs the script but don't generate a pipeline.
+* cmake <CMakeListsDir> -j n, runs the build process on n threads in parallel, if possible.
 
-CMake is more like a scripting language and is very flexible. Let's go over the basic building blocks of CMake Scripting.
+**CMake is more like a scripting language** and is very flexible. Let's go over the basic building blocks of CMake Scripting.
 
 ### message
 ```message("Building Core library.")```
@@ -38,6 +40,19 @@ Variables can be set by:
 * Varibles can be defined on command line 
   ```$ cmake -DNumber 42```
 Quotes around arguments are optional as long as there are no spaces or reference variable.
+
+### Flow Control
+Cmake supports ```if``` statement and ```while``` loops.
+
+```if(Linux)
+      message("Building on Linux")
+   endif()
+``` 
+
+```while(num LESS 42)
+      message("Number is still less than 42.")
+   endwhile()
+```
 
 ### Including Scripts
   *include* command is used to add CMakeLists.txt from other directories. 
