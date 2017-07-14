@@ -5,7 +5,7 @@ CMake generates build pipeline for the platform, which is then used to build the
 The build pipeline can be Visual Studio Project file (.sln) or a Unix Style Makefile.
 
 To use CMake, a CMakeLists.txt file is required in the project. This file contains all the build instructions. 
-To build a project, create a new directory named build. From the build directory, execute *cmake ..*  
+A simple way to build a project is to create a new directory named build. From the build directory, execute *cmake ..*  
 This will generate a build pipeline. For the sake of simplicity, let's assume we are on a linux machine, and the build pipeline generated is a Makefile.
 Generating build pipeline in a seperate build directory have the advantage of seperating the build files from project source files. 
 All the build artifacts are in this directory, and can be deleted for cleanup.
