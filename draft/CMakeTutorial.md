@@ -58,6 +58,7 @@ Cmake supports ```if``` statement and ```while``` loops.
 
 ### Including Scripts
   *include* command is used to add CMakeLists.txt from other directories. 
+  
   *add_subdirectory* creates a new scope and executes the CMakeLists.txt from the subdirectory.
 
 ### Include Directories
