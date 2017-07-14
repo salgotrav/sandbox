@@ -80,6 +80,7 @@ https://www.interviewbit.com/courses/system-design/
 * std::function
 * Concepts
 * SFINAE
+* CRTP
 
 ## Benchmark
 http://quick-bench.com/
