@@ -44,12 +44,14 @@ Quotes around arguments are optional as long as there are no spaces or reference
 ### Flow Control
 Cmake supports ```if``` statement and ```while``` loops.
 
-```if(Linux)
+```
+    if(Linux)
       message("Building on Linux")
    endif()
 ``` 
 
-```while(num LESS 42)
+```
+    while(num LESS 42)
       message("Number is still less than 42.")
    endwhile()
 ```
