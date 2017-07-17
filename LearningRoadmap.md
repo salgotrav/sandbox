@@ -12,7 +12,7 @@
 * Graphs
 * Tries
 
-## Lock Free Data Structures (Only Vishal)
+## Lock Free Data Structures (Only V)
 * Lock free circular buffer
 
 ## Algorithm Design
@@ -86,15 +86,15 @@ https://www.interviewbit.com/courses/system-design/
 http://quick-bench.com/
 * Google Benchmark
 
-## Python (Only Vishal)
+## Python (Only V)
 
-## Objective C (Only Pankaj)
+## Objective C (Only P)
 
-## Swift (Only Pankaj)
+## Swift (Only P)
 
 ## Papers
 
-## CMake (Only Vishal)
+## CMake (Only V)
 
 ## Vim
 
