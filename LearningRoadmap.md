@@ -119,6 +119,9 @@ http://quick-bench.com/
 ## Practice
 * https://www.interviewbit.com/dashboard/
 
+## Interesting Stuff
+* AI https://hackernoon.com/a-list-of-artificial-intelligence-tools-you-can-use-today-for-personal-use-1-3-7f1b60b6c94f
+
 ### Refernces
 * MarkDown: 
   https://guides.github.com/features/mastering-markdown/
