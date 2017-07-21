@@ -126,6 +126,8 @@ http://quick-bench.com/
 ### Refernces
 * MarkDown: 
   https://guides.github.com/features/mastering-markdown/
+* Microsoft Best Papers
+  http://jeffhuang.com/best_paper_awards.html
 * https://github.com/jwasham/coding-interview-university
 * http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/
 * https://github.com/checkcheckzz/system-design-interview
