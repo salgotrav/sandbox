@@ -33,6 +33,7 @@
 * Heap Sort
 * Hashing Algorithm
 * Dutch National Flag Problem
+* Rotate matrix by 90 degrees clockwise/anti-clockwise
 
 ## Design Patterns
 
