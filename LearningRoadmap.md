@@ -36,6 +36,7 @@
 * Rotate matrix by 90 degrees clockwise/anti-clockwise
 
 ## Design Patterns
+  Actor Model
 
 ## Operating Systems 
 * Perfomance Optimizations
