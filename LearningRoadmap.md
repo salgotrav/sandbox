@@ -83,6 +83,7 @@ https://www.interviewbit.com/courses/system-design/
 * Concepts
 * SFINAE
 * CRTP
+* std::variant, any
 
 ## Benchmark
 http://quick-bench.com/
